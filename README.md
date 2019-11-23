@@ -1,3 +1,5 @@
+This is a fork of ErrorPro/react-google-autocomplete
+
 ## React google autocomplete
 
   This is a simple react component for working with google [autocomplete](https://developers.google.com/maps/documentation/javascript/examples/places-autocomplete)
